@@ -1,6 +1,6 @@
-# <ins>Machine Learning Demo with Python</ins>
+# Machine Learning Demo with Python
 
-## <ins>Resources & requirements</ins>
+## Resources & requirements
 ### 1. Python - [Anaconda distribution](https://www.anaconda.com/products/individual), which includes:
 - Useful libraries, for example:
     - Data analysis - [pandas](https://pandas.pydata.org)
@@ -34,7 +34,7 @@
     
 ---
 
-## <ins>Agenda</ins>
+## Agenda
 ### Part 1: Regression in scikit-learn
 1. Loading & exploring data
 2. Model fitting 
